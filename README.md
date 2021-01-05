@@ -25,7 +25,6 @@
 
 ![jsDelivr](https://data.jsdelivr.com/v1/package/npm/@freshui/freshui/badge?style=for-the-badge)
 
+# Languages used in the framework
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fresh-ui&show_icons=true&locale=en&layout=compact" alt="fresh-ui" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fresh-ui&show_icons=true&locale=en" alt="fresh-ui" /></p>
-

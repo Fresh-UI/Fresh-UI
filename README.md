@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debaditya Malakar</h1>
 <h3 align="center">Fresh UI CSS framework is a CSS framework based on the material design by Google and is maintained by me.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fresh-ui&label=Profile%20views&color=0e75b6&style=flat" alt="fresh-ui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fresh-ui&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="fresh-ui" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fresh-ui" alt="fresh-ui" /></a> </p>
 

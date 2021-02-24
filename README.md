@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debaditya Malakar</h1>
-<h3 align="center">Fresh UI CSS framework is a CSS framework based on the material design by Google and is maintained by me.</h3>
+<h3 align="center">Fresh UI CSS framework is a CSS framework based on the material design by Google.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fresh-ui&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="fresh-ui" /> </p>
 
